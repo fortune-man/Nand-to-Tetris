@@ -1,5 +1,5 @@
 # Nand-to-Tetris
-![img](https://user-images.githubusercontent.com/79819812/223650833-3040a9e1-b442-4b33-8843-f9b1edf7fe6c.png)
+![img](https://github.com/mancuoj/Nand2Tetris/raw/main/project-materials/N.png)
 
 # Nand-to-Tetris
 
